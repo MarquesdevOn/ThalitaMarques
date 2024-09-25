@@ -6,7 +6,7 @@
   Sou Paulista, tenho 31 anos e sou <strong>Analista de sistemas| Desenvolvedora Full-Stack | Transição para Data Sciense</strong>.
 
 Sou uma profissional apaixonada por tecnologia, com três anos de experiência na área. Formada em Análise e Desenvolvimento de Sistemas, atuei em diversas frentes do desenvolvimento de software.
-Tenho especialização em desenvolvimento web, com forte domínio em HTML, CSS e JavaScritp, o que me permite criar interfaces interativas e responsivas. Além disso, possuo experiência em desenvolvimento backend com Java e Python,
+Tenho especialização em desenvolvimento web, com forte domínio em HTML, CSS e JavaScript, o que me permite criar interfaces interativas e responsivas. Além disso, possuo experiência em desenvolvimento backend com Java e Python,
 e sou proeficiente em bancos de dados como Mysql e Oracle, capacitando-me a construir soluções completas e eficientes.
 Atualmente, estou investindo no meu crescimento profissional, cursando minha segunda graduação em Ciências de Dados. Paralelamente, realizo cursos no Senac em desenvolvimento web com foco em JS, PHP e banco de dados e também em desenvolvimento web backend
 com Node.js, visando aprimorar minhas habilidades em JavaScript e desenvolvimento de APIs.
