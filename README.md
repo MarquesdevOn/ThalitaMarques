@@ -1,7 +1,8 @@
-<h1 align="center">👋 Olá, eu sou Thalita Marques</h1>
+<h1 align="center"> 👩🏻‍💻🌸 Thalita Marques </h1>
 
 <p align="center">
-Desenvolvedora Python • Foco em Dados e IA • Apaixonada por tecnologia e soluções inteligentes
+Desenvolvedora Python com foco em Dados & IA<br>
+<em>Onde há tecnologia, há possibilidades & eu programo para alcançá-las.</em>
 </p>
 
 ---
@@ -18,8 +19,6 @@ Atuo com **Python** desenvolvendo projetos voltados para:
 💡 Apaixonada por tecnologia, estou em constante evolução, aprendendo, me adaptando e buscando transformar conhecimento em impacto.
 
 ---
-
-### 🛠️ Tecnologias e Ferramentas
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -53,7 +52,6 @@ Atuo com **Python** desenvolvendo projetos voltados para:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </div>
 
-
 ---
 
 ### 📊 Estatísticas
@@ -84,7 +82,7 @@ Atuo com **Python** desenvolvendo projetos voltados para:
 
 ### 📫 Entre em Contato
 
-- 📧 **Email**: thalitajasse@gmail.com  
+- 📧 **Email**: marques.codeti@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/thalitajasse](https://www.linkedin.com/in/thalitajasse)  
 - 🌐 **Portfólio**: [thalitajasse.dev](https://thalitajasse.dev)
 
